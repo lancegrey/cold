@@ -1,6 +1,6 @@
-cold-server
+#cold-server
 
-essencial
+##essencial
 0.logs(start, errors, logging-sep, crash)
 1.url route(re)
 2.database(sql, redis; k-func-v-layer)
